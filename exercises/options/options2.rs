@@ -1,7 +1,6 @@
 // options2.rs
 // Execute `rustlings hint options2` or use the `hint` watch subcommand for a hint.
 
-// I AM NOT DONE
 
 fn main() {
     let optional_word = Some(String::from("rustlings"));
